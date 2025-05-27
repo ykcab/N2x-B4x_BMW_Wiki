@@ -109,10 +109,10 @@ icon = "fab fa-github"
 desc = "Development takes place here!"
 
 # Navigation
-[[menu.main]]
-name = "Documentation"
-weight = 20
-url = "/docs/"
+# [[menu.main]]
+# name = "Documentation"
+# weight = 20
+# url = "/docs/"
 
 [markup]
   [markup.goldmark]
