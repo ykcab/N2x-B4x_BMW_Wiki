@@ -1,0 +1,11 @@
+# Redirect domain aliases to primary domain
+https://www.bmwenginewiki.com/* https://bmwenginewiki.com/:splat 301!
+
+# Optional: Redirect old paths to new ones
+/n20/* /docs/n20/:splat 301
+/b48/* /docs/b48/:splat 301
+/tuning/* /docs/tuning/:splat 301
+/maintenance/* /docs/maintenance/:splat 301
+
+# Handle 404s
+/* /404.html 404 

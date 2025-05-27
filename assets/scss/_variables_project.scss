@@ -1,0 +1,61 @@
+/*
+Add styles or override variables from the theme here.
+*/
+
+// Colors
+$primary: #1a73e8;
+$secondary: #3c4043;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$white: #fff;
+$light: #f8f9fa;
+$dark: #343a40;
+
+// Theme colors
+$blue: #1a73e8;
+$indigo: #6610f2;
+$purple: #6f42c1;
+$pink: #e83e8c;
+$red: #dc3545;
+$orange: #fd7e14;
+$yellow: #ffc107;
+$green: #28a745;
+$teal: #20c997;
+$cyan: #17a2b8;
+
+// Grays
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+// Box colors
+$td-box-colors: $dark, $primary, $secondary, $info, $white;
+
+// Color contrast
+$color-contrast-dark: $gray-900;
+$color-contrast-light: $white;
+$link-shade-percentage: 15%;
+
+// Docsy theme overrides
+$td-enable-google-fonts: true;
+$google_font_name: "Open Sans";
+$google_font_family: "Open+Sans:300,300i,400,400i,700,700i";
+
+// Navbar
+$td-navbar-height: 4.75rem;
+$td-navbar-color: $white;
+$td-navbar-bg-color: $primary;
+
+// Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: darken($link-color, 15%);
+$link-hover-decoration: none;

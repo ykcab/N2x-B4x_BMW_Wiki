@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bmwenginewiki.com/sitemap.xml
+
+# Disallow certain paths
+Disallow: /404.html
+Disallow: /search/ 

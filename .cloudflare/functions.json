@@ -1,0 +1,17 @@
+{
+  "functions": {
+    "api/search": {
+      "memory": 128,
+      "execution_time": 10
+    }
+  },
+  "routes": [
+    {
+      "pattern": "/api/search",
+      "function": "search"
+    }
+  ],
+  "triggers": {
+    "crons": []
+  }
+} 

@@ -1,0 +1,11 @@
+{
+  "build": {
+    "command": "hugo --gc --minify",
+    "environment": {
+      "HUGO_VERSION": "0.123.6",
+      "HUGO_ENV": "production",
+      "HUGO_ENABLEGITINFO": "true"
+    },
+    "output_directory": "public"
+  }
+} 

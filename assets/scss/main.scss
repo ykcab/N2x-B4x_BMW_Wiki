@@ -1,0 +1,273 @@
+// Project variables
+@import "variables_project";
+
+// Font Awesome
+$fa-font-path: "../webfonts";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
+
+// Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+// Docsy theme
+@import "../../themes/docsy/assets/scss/support/_mixins";
+@import "../../themes/docsy/assets/scss/_variables";
+@import "../../themes/docsy/assets/scss/support/_utilities";
+
+@import "../../themes/docsy/assets/scss/_pageinfo";
+@import "../../themes/docsy/assets/scss/_alerts";
+@import "../../themes/docsy/assets/scss/_boxes";
+@import "../../themes/docsy/assets/scss/_breadcrumb";
+@import "../../themes/docsy/assets/scss/_code";
+@import "../../themes/docsy/assets/scss/_content";
+@import "../../themes/docsy/assets/scss/_drawio";
+@import "../../themes/docsy/assets/scss/_main-container";
+@import "../../themes/docsy/assets/scss/_nav";
+@import "../../themes/docsy/assets/scss/_search";
+@import "../../themes/docsy/assets/scss/section-index";
+@import "../../themes/docsy/assets/scss/_sidebar-tree";
+@import "../../themes/docsy/assets/scss/_taxonomy";
+@import "../../themes/docsy/assets/scss/_table";
+@import "../../themes/docsy/assets/scss/blocks/blocks";
+@import "../../themes/docsy/assets/scss/blocks/cover";
+
+// Modern color palette
+$primary: #0066FF;  // Bright blue
+$secondary: #00F5FF; // Cyan
+$dark: #111827;     // Near black
+$light: #F9FAFB;    // Off white
+$info: #6366F1;     // Indigo
+$success: #10B981;  // Emerald
+$warning: #F59E0B;  // Amber
+$danger: #EF4444;   // Red
+
+// Custom gradients
+$gradient-hero: linear-gradient(135deg, #1E1B4B 0%, #4338CA 50%, #0EA5E9 100%);
+$gradient-primary: linear-gradient(135deg, #0066FF 0%, #00F5FF 100%);
+$gradient-secondary: linear-gradient(135deg, #00F5FF 0%, #0066FF 100%);
+$gradient-dark: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
+
+// Cover block with innovative background
+.td-cover-block {
+  background: $gradient-hero;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 20% 20%, rgba(37, 99, 235, 0.15) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(6, 182, 212, 0.15) 0%, transparent 50%);
+    z-index: 1;
+  }
+  
+  .display-1 {
+    position: relative;
+    z-index: 2;
+    background: linear-gradient(90deg, #818CF8, #38BDF8, #34D399);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 800;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  .lead {
+    position: relative;
+    z-index: 2;
+    color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    margin: 1rem auto;
+    max-width: 600px;
+  }
+}
+
+// Section styling
+.td-block-section {
+  position: relative;
+  overflow: hidden;
+  padding: 4rem 0;
+  
+  &.td-block-section-dark {
+    background: $dark;
+  }
+  
+  &.td-block-section-primary {
+    background: #f8f9fa;
+    color: $dark;
+  }
+
+  .row {
+    justify-content: center;
+    align-items: stretch;
+  }
+}
+
+// Feature blocks
+.td-feature {
+  transition: transform 0.2s ease;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  text-align: center;
+  margin: 1rem;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  }
+  
+  .td-feature-icon {
+    color: $primary;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  h3 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: $dark;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+    color: rgba(0, 0, 0, 0.8);
+  }
+
+  a {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    background: $primary;
+    color: white;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: darken($primary, 10%);
+      transform: translateY(-2px);
+    }
+  }
+}
+
+// Typography
+body {
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  color: $dark;
+  background: $light;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  color: $dark;
+}
+
+// Links with hover effect
+a {
+  color: $primary;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: darken($primary, 15%);
+    text-decoration: none;
+  }
+}
+
+// Modern buttons
+.btn {
+  border-radius: 12px;
+  font-weight: 600;
+  padding: 0.75rem 1.5rem;
+  transition: all 0.3s ease;
+  border: none;
+  
+  &-primary {
+    background: $gradient-primary;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 20px rgba(99, 102, 241, 0.2);
+    }
+  }
+  
+  &-secondary {
+    background: $gradient-secondary;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 20px rgba(16, 185, 129, 0.2);
+    }
+  }
+}
+
+// Navigation
+.td-navbar {
+  background: rgba(15, 23, 42, 0.8);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  
+  .nav-link {
+    color: $light !important;
+    
+    &:hover {
+      color: $secondary !important;
+    }
+  }
+}
+
+// Sidebar
+.td-sidebar {
+  background: rgba(15, 23, 42, 0.95);
+  backdrop-filter: blur(10px);
+  
+  .td-sidebar-nav {
+    .td-sidebar-link {
+      color: $light;
+      
+      &:hover {
+        color: $secondary;
+      }
+      
+      &.active {
+        color: $primary;
+      }
+    }
+  }
+}
+
+// Content area text colors
+.td-content {
+  color: $dark;
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: $dark;
+  }
+  
+  p {
+    color: $dark;
+  }
+  
+  a {
+    color: $primary;
+    
+    &:hover {
+      color: darken($primary, 15%);
+    }
+  }
+}

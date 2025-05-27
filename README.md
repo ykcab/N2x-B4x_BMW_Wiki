@@ -28,72 +28,85 @@ For full documentation visit: [BMW Engine Wiki](https://bmwenginewiki.com) **Sit
 
 ### Prerequisites
 
-- Basic knowledge of BMW engines.
-- Willingness to learn and share knowledge with the community.
+- [Hugo](https://gohugo.io/installation/) (v0.123.6 or later)
+- Basic knowledge of BMW engines
+- Node.js and npm (for theme development)
 
-### Cloning the Repository
+### Local Development
 
-To get started with the repository locally, use the following command:
-
+1. Clone the repository:
 ```bash
 git clone https://github.com/your-github-username/bmw-engine-wiki.git
 cd bmw-engine-wiki
 ```
 
-*Replace `your-github-username` with your actual GitHub username.*
-
-### Contribution Guidelines
-
-We welcome contributions to the Wiki! If you'd like to add new information or improve existing content:
-
-1. **Fork** the repository.
-2. **Clone** your forked repo and create a new branch:
-
+2. Install dependencies:
 ```bash
-   git checkout -b feature/your-feature-name
+npm install
 ```
 
-3. **Commit** your changes and **push** to your branch:
-
+3. Start the Hugo development server:
 ```bash
-   git commit -m "Add new tuning guide for B48"
-   git push origin feature/your-feature-name
+hugo server -D
 ```
 
-4. Open a **Pull Request** and describe your changes in detail.
+The site will be available at `http://localhost:1313/`
 
-### Reporting Issues
+### Building for Production
 
-Found an issue or incorrect information? Please [open an issue](https://github.com/your-github-username/bmw-engine-wiki/issues) to help us improve the content!
-**No Longer Maintained by Navardi Tuned from October 31 2024**
+To build the site for production:
+```bash
+hugo --minify
+```
 
-## 📂 Directory Structure
+The built site will be in the `public/` directory.
+
+## 🚀 Deployment
+
+This site is deployed using Netlify. The `netlify.toml` file contains all necessary configuration.
+
+### Automatic Deployments
+
+- Push to `main` branch triggers production deployment
+- Pull requests create preview deployments
+
+### Manual Deployment
+
+1. Build the site:
+```bash
+hugo --minify
+```
+
+2. Deploy using Netlify CLI:
+```bash
+netlify deploy --prod
+```
+
+## 📂 Project Structure
 
 ```bash
 .
-├── docs/
-│   ├── n20/
-│   ├── b48/
-│   ├── n26/
-│   └── b46/
-├── images/
-├── CONTRIBUTING.md
-├── LICENSE
-└── README.md
+├── archetypes/    # Content templates
+├── assets/        # SCSS, JS, and other assets
+├── content/       # Markdown content
+│   ├── docs/      # Documentation pages
+│   │   ├── n20/   # N20 engine content
+│   │   └── b48/   # B48 engine content
+├── layouts/       # Hugo templates
+├── static/        # Static files
+│   └── images/    # Image assets
+├── themes/        # Hugo themes
+├── hugo.toml      # Hugo configuration
+└── netlify.toml   # Netlify configuration
 ```
 
-- **docs/**: Contains all engine-specific documentation and guides.
-- **images/**: Stores images and diagrams for documentation.
-- **CONTRIBUTING.md**: Guidelines for contributing to the project.
-- **LICENSE**: License information for the repository.
+## 💬 Join the Community
+
+For more information, discussions, and support, join our [Discord Server](https://discord.gg/yBR7v2drju).
 
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 💬 Join the Community
-
-For more information, discussions, and support, visit the [BMW Engine Wiki Community](https://bmwenginewiki.com).
 
 ## ⭐ Acknowledgements
 

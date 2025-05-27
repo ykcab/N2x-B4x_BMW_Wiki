@@ -1,0 +1,48 @@
+# Hugo default output directory
+/public/
+
+# Hugo generated files
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+.hugo_build.lock
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+.hugo_build.lock
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+
+# Netlify
+.netlify/
+
+# Old site backup
+old-site-backup/ 
