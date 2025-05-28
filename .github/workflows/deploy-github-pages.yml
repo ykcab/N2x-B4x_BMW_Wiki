@@ -44,8 +44,8 @@ jobs:
 
       - name: Setup Hugo Modules
         run: |
-          hugo mod init github.com/${REPO_OWNER}/${REPO_NAME}
-          hugo mod get -u
+          hugo mod tidy
+          hugo mod get -u ./...
 
       - name: Build
         run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
