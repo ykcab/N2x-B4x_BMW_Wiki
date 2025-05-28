@@ -1,18 +1,48 @@
 ---
-title: "BMW N20 Engine"
-linkTitle: "N20 Engine"
-weight: 1
-description: >
-  Complete guide to the BMW N20 engine - specifications, maintenance, tuning, and common issues.
+title: "BMW N20 & N26 Wiki"
+description: "The BMW N20 and N26 Wiki, all the information you need for this platform"
+lead: "Comprehensive documentation for the BMW N20 and N26 engines"
+date: 2024-05-29T00:49:58.211Z
+lastmod: 2024-05-29T00:49:58.211Z
+draft: false
+images: []
+weight: 100
 ---
 
-{{% pageinfo %}}
-The BMW N20 is a turbocharged four-cylinder petrol engine that was produced from 2011 to 2017. It was BMW's first turbocharged four-cylinder engine since the 2000-2003 BMW E46 318i.
-{{% /pageinfo %}}
+Welcome to the BMW N20 and N26 Wiki section. Here you'll find all the information about these engines:
+
+- [N2x Engine Specifications]({{< relref "./specs" >}})
+- [Commonly Asked Questions]({{< relref "./faq" >}})
+- [N2x Engine Average Power & TQ Output]({{< relref "./power-output" >}})
+- [N2x Performance Upgrade Guide]({{< relref "./stage-path" >}})
+- [N2x Common Mods]({{< relref "./mods" >}})
+- [N2x Servicing & Maintenance Information]({{< relref "./service-info" >}})
+- [N2x Turbo Upgrade Info]({{< relref "./turbo-upgrade" >}})
+- [N2x Part Cross Compatibility List]({{< relref "./cross-compatibility" >}})
+- [N2x Built Motor Guide]({{< relref "./forged" >}})
+- [N2x B58TU HPFP Retrofit Guide]({{< relref "./b58-retrofit" >}})
+- [N2x ARP Rod Bolt Upgrade Info]({{< relref "./arp-rod" >}})
+- [N2x HPFP & LPFP Flow Rate Data]({{< relref "./fuel-flow" >}})
+- [N2x Injector Flow Rate Data]({{< relref "./injector-flow" >}})
+- [N2x HPFP DIY Retrofit Kit Info]({{< relref "./hpfp-retrofit" >}})
+- [N2x Spark Plug Info]({{< relref "./spark-plugs" >}})
 
 ## Overview
 
-The N20 engine replaced the naturally aspirated BMW N53 straight-six engine as BMW's mainstream petrol engine. This section covers everything you need to know about the N20 engine, including its variants and applications.
+The BMW N20 is a turbocharged four-cylinder engine that replaced the naturally aspirated N52 six-cylinder. It features:
+
+- Direct fuel injection
+- Twin-scroll turbocharger
+- Valvetronic variable valve lift
+- Double-VANOS variable valve timing
+- All-aluminum construction
+
+## Contents
+
+- [Specifications]({{< relref "./specs" >}})
+- [Common Issues]({{< relref "./common-issues" >}})
+- [Maintenance]({{< relref "../maintenance" >}})
+- [Tuning]({{< relref "../tuning" >}})
 
 ## Key Specifications
 

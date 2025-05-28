@@ -1,81 +1,48 @@
 ---
-title: "B48 Oil Change Guide"
-linkTitle: "Oil Changes"
-weight: 10
-description: >
-  Complete guide for changing oil in your BMW B48 engine.
+title: "Oil Change Guide"
+description: "General oil change guide for BMW N20 and B48 engines"
+lead: "Understanding oil maintenance for modern BMW engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 340
 ---
 
-{{% pageinfo %}}
-Regular oil changes are crucial for maintaining your B48 engine's performance and longevity. BMW recommends using synthetic 0W-30 or 0W-20 oil meeting BMW LL-17 FE+ specification.
-{{% /pageinfo %}}
+> **Important:** Regular oil changes are essential for engine longevity. Always use BMW-approved oil and follow the correct procedure.
 
-## Specifications
+## Overview
 
-- **Oil Type**: BMW LL-17 FE+ (0W-30 or 0W-20)
-- **Oil Capacity**: 5.25 liters (with filter)
-- **Oil Filter**: BMW Part #11428575211
-- **Drain Plug**: BMW Part #11137605018
-- **Drain Plug Washer**: BMW Part #11137549476
-- **Service Interval**: 10,000 miles or 12 months
+Both the N20 and B48 engines require high-quality synthetic oil and regular maintenance intervals. This guide covers general information about oil changes for both engines.
 
-## Required Tools
+## Engine-Specific Guides
+- [N20 Oil Changes]({{< relref "./n20-oil-changes" >}})
+- [B48 Oil Changes]({{< relref "./b48-oil-changes" >}})
 
-- 17mm socket (drain plug)
-- Oil filter wrench
-- Funnel
-- Oil pan
-- Torque wrench
-- Gloves
-- Shop rags
+## General Guidelines
 
-## Step-by-Step Procedure
+### Oil Specifications
+- BMW LL-01 or LL-04 approved oils
+- 5W-30 or 0W-30 viscosity
+- Synthetic oil only
 
-1. **Warm Up Engine**
-   - Start with a slightly warm engine (not hot)
-   - Park on level ground
-   - Engage parking brake
+### Service Intervals
+- Normal use: 7,500-10,000 miles
+- Performance/track use: 5,000 miles
+- Severe conditions: 5,000 miles
 
-2. **Access Points**
-   - Lift vehicle safely using proper jack points
-   - Remove undertray if equipped
-   - Locate drain plug and filter
+### Signs of Oil Issues
+1. Dark, dirty oil on dipstick
+2. Low oil level
+3. Oil pressure warning
+4. Engine noise
+5. Reduced performance
 
-3. **Drain Oil**
-   - Place oil pan under drain plug
-   - Remove drain plug
-   - Allow oil to drain completely
-   - Replace drain plug washer
-   - Torque drain plug to 25Nm
+## Best Practices
 
-4. **Replace Filter**
-   - Remove old filter using oil filter wrench
-   - Clean filter housing surface
-   - Lubricate new filter O-ring
-   - Install new filter hand-tight
-
-5. **Fill Oil**
-   - Add 5 liters of new oil
-   - Start engine
-   - Check for leaks
-   - Check oil level
-   - Top off as needed
-
-## Important Notes
-
-{{% alert title="Warning" color="warning" %}}
-- Always use fresh oil and a new filter
-- Replace drain plug washer every time
-- Don't overtighten the drain plug
-- Check for leaks after completion
-{{% /alert %}}
-
-## Maintenance Tips
-
-- Keep record of oil changes
-- Monitor oil level between changes
-- Check for oil leaks regularly
-- Consider more frequent changes for:
-  - Track use
-  - Short trips only
-  - Extreme climate conditions 
+1. Always use BMW-approved oil
+2. Replace filter with every change
+3. Use new drain plug washer
+4. Check for leaks after service
+5. Document service with date and mileage
+6. Reset service indicator 

@@ -1,134 +1,86 @@
 ---
-title: "N20/N26 Cylinder Sleeves"
-linkTitle: "N20 Sleeves"
-weight: 41
-description: >
-  Comprehensive guide to cylinder sleeve options for high-performance N20/N26 builds.
+title: "N20 Cylinder Sleeves"
+description: "Guide for cylinder sleeve installation on BMW N20 engines"
+lead: "Understanding cylinder sleeve options for high-performance builds"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 430
 ---
 
-{{% pageinfo %}}
-This guide covers the different cylinder sleeve options available for the N20/N26 engine, including parallel sleeves, flanged sleeves, and Darton MID wet sleeves.
-{{% /pageinfo %}}
+> **Important:** Cylinder sleeve installation is an advanced engine modification that requires professional machining and installation. This modification is typically only necessary for high-horsepower builds.
 
-## Factory Block Construction
+## Overview
 
-The N20/N26 engines use an aluminum block with an arc spray process applied to the cylinder walls from the factory. This process involves:
+The N20's aluminum block can benefit from aftermarket cylinder sleeves for high-power applications. This guide covers sleeve options, installation, and considerations.
 
-![Factory Block Construction](/images/engine-mods/n20/factory-block.png)
+## Sleeve Types
 
-- Aluminum block base material
-- Arc-sprayed cylinder coating
-- Open deck design from factory
-- Integrated coolant passages
+### 1. Darton MID Sleeves
+- Industry standard
+- Proven reliability
+- Full support
+- Optimal cooling
+- Most expensive option
 
-## Sleeve Options
+### 2. LA Sleeves
+- Good alternative
+- Cost-effective
+- Proven design
+- Limited availability
+- Requires skilled installation
 
-### 1. Parallel/Repair Sleeve
-
-The most basic and economical sleeve option, but with significant limitations:
-
-![Parallel Sleeve Design](/images/engine-mods/n20/parallel-sleeve.png)
-
-**Pros:**
-- Most affordable option
-- Good for OEM-style rebuilds
-- Simpler installation process
-
-**Cons:**
-- Not recommended for high-power applications
-- Risk of sleeve dropping issues
-- Potential problems with Athena "Cut-Ring" head gaskets
-- Limited power handling capability
-
-### 2. Flanged Sleeve
-
-A more robust option commonly used in BMW engines:
-
-![Flanged Sleeve Design](/images/engine-mods/n20/flanged-sleeve.png)
-
-**Pros:**
-- Better retention than parallel sleeves
-- More surface area at top prevents dropping
-- Proven in many BMW applications
-
-**Cons:**
-- Risk of cracking in high-performance builds
-- Wall thickness limitations
-- Potential coolant passage interference
-- Cylinder movement possible in open deck design
-
-### 3. Darton MID Wet Sleeve
-
-The premium solution developed specifically for the N20/N26 by Navardi Tuned in conjunction with Darton Sleeves International Inc and Brintech Customs Australia:
-
-![Darton MID Sleeve Installation](/images/engine-mods/n20/darton-sleeve.jpg)
-![Darton MID Sleeve Design](/images/engine-mods/n20/darton-design.png)
-
-**Pros:**
-- Integrated closed deck design
-- Thicker cylinder walls (3.5mm between cylinders)
-- Better heat transfer characteristics
-- Triple O-ring sealing system
-- Replaceable individual cylinders
-- Maximum power handling capability
-
-**Cons:**
+### 3. Custom Sleeves
+- Application specific
+- Variable wall thickness
+- Custom materials
 - Higher cost
-- Longer lead times (12-18 weeks)
-- Requires CNC machining for installation
-- Limited availability of qualified installers
+- Limited availability
 
-## Power Handling Recommendations
+## Installation Process
 
-- **Stock/Stage 2:** Factory arc spray or parallel sleeve
-- **Up to 400WHP:** Flanged sleeve with closed deck
-- **400WHP+:** Darton MID wet sleeve recommended
+### Preparation
+1. Engine removal
+2. Block cleaning
+3. Measurement
+4. Surface preparation
+5. Alignment checks
 
-{{% alert title="Warning" color="warning" %}}
-For applications above 400WHP at boost pressures over 30psi, we strongly recommend either:
-1. Darton MID Wet Sleeve (preferred)
-2. Flanged sleeve with closed deck conversion
-{{% /alert %}}
+### Installation
+1. Boring for sleeves
+2. Sleeve fitting
+3. Sleeve installation
+4. Final boring
+5. Deck resurfacing
 
-## Technical Specifications
+### Finishing
+1. Torque plate honing
+2. Surface finishing
+3. Measurement verification
+4. Cleaning
+5. Final inspection
 
-### Darton MID Wet Sleeve
-- Wall thickness between cylinders: ~3.5mm
-- Thrust/non-thrust wall thickness: ~8mm
-- Maximum bore size capability: 85mm
-- Triple O-ring sealing system
-- Designed for easy replacement
+## Considerations
 
-### Flanged Sleeve
-- Typical wall thickness: 1.8-1.9mm
-- Must maintain minimum coolant passage thickness
-- Available in 84mm and 84.5mm sizes
+### When Needed
+- Power over 500hp
+- Boost over 25 PSI
+- Race applications
+- Frequent track use
+- After cylinder damage
 
-## Installation Considerations
+### Supporting Mods
+1. Forged pistons
+2. Head studs
+3. Performance head gasket
+4. Enhanced cooling
+5. Oil system upgrades
 
-1. **Machine Shop Requirements:**
-   - 3-axis CNC machine required for Darton sleeves
-   - Precision boring equipment
-   - Experience with BMW aluminum blocks
-   
-2. **Additional Modifications:**
-   - Consider closed deck conversion
-   - Update head studs/bolts
-   - Verify head gasket compatibility
-   
-3. **Quality Control:**
-   - Pressure testing after installation
-   - Deck surface finish verification
-   - Cylinder roundness checking
-   - Alignment verification
+## Best Practices
 
-## Manufacturer Recommendations
-
-For high-performance builds, we recommend:
-1. Darton MID Wet Sleeves (preferred)
-2. Custom Darton flanged sleeves
-3. LA Sleeves options
-
-{{% alert title="Note" color="info" %}}
-Due to the large number of failed built/forged engines observed, we strongly recommend the Darton MID Wet Sleeve solution for any serious performance build.
-{{% /alert %}} 
+1. Use quality sleeves
+2. Professional installation
+3. Proper measurements
+4. Correct clearances
+5. Quality machine work 

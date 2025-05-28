@@ -1,23 +1,64 @@
 ---
-title: "Water Methanol Injection"
-linkTitle: "Water Methanol"
-weight: 45
-description: >
-  Guide to water methanol injection systems for N20 and B48 engines.
+title: "Water-Methanol Injection Guide"
+description: "Guide for installing and tuning water-methanol injection on BMW N20 and B48 engines"
+lead: "Understanding water-methanol injection for modern BMW engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 450
 ---
 
-{{% pageinfo %}}
-Water methanol injection is an advanced modification that helps reduce intake temperatures and prevent detonation, allowing for more aggressive tuning on both N20 and B48 engines.
-{{% /pageinfo %}}
+> **Important:** Water-methanol injection is an advanced modification that requires careful setup and monitoring. Improper installation or tuning can cause engine damage.
 
 ## Overview
 
-Water methanol injection (WMI) systems spray a mixture of water and methanol into the intake tract to:
-- Lower intake temperatures
-- Increase octane rating
-- Reduce risk of detonation
-- Allow for more aggressive tuning
-- Clean carbon deposits
+Water-methanol injection (WMI) is a powerful tool for reducing intake temperatures and preventing detonation. This guide covers installation, tuning, and maintenance of WMI systems.
+
+## Benefits
+
+1. Lower intake temperatures
+2. Increased octane rating
+3. Reduced risk of detonation
+4. Potential for more aggressive timing
+5. Cleaner intake valves
+
+## Installation
+
+### Required Components
+- WMI kit (pump, controller, nozzle)
+- Methanol-safe lines and fittings
+- Boost/MAP sensor
+- Failsafe device
+- Proper mixture (50/50 water/methanol)
+
+### Mounting Locations
+1. Pump: Protected area near tank
+2. Tank: Trunk or spare tire well
+3. Nozzle: Pre-throttle body
+4. Controller: Accessible location
+
+## Tuning
+
+### Initial Setup
+1. Start with conservative settings
+2. Begin injection at 5-7 PSI
+3. Progressive ramping to max boost
+4. Monitor AFRs and timing
+
+### Safety Measures
+1. Install failsafe device
+2. Monitor fluid levels
+3. Regular system checks
+4. Conservative tune initially
+
+## Maintenance
+
+1. Regular system inspection
+2. Clean nozzles periodically
+3. Check for leaks
+4. Monitor fluid consumption
+5. Test mixture ratio
 
 ## System Components
 

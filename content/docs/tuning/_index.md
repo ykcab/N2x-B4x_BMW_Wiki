@@ -1,43 +1,49 @@
 ---
-title: "Performance Tuning"
-linkTitle: "Tuning"
-weight: 40
-description: >
-  Performance tuning guides and modifications for N20 and B48 engines.
+title: "Tuning Guide"
+description: "Performance tuning information for BMW N20 and B48 engines"
+lead: "Understanding performance modifications for modern BMW engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 400
 ---
 
-{{% pageinfo %}}
-This section covers performance modifications and tuning options for both the N20 and B48 engines.
-{{% /pageinfo %}}
+> **Important:** Performance tuning can affect engine reliability and warranty coverage. Always research modifications thoroughly and use reputable tuners.
 
 ## Overview
 
-Our tuning guides cover various performance modifications including:
+Both the N20 and B48 engines respond well to performance modifications. This section covers various tuning options, from simple bolt-ons to advanced engine builds.
 
-- [Tuning Stages Guide](./stages/)
-- [Water Methanol Injection](./water-methanol/)
-- ECU tuning
-- Intake systems
-- Exhaust upgrades
-- Intercooler modifications
-- Turbo upgrades
-- Supporting modifications
+## Tuning Categories
 
-## Engine-Specific Guides
+### Software Tuning
+- [ECU Tuning]({{< relref "./ecu-tuning" >}})
+- [Transmission Tuning]({{< relref "./transmission-tuning" >}})
+- [JB4 Piggyback]({{< relref "./jb4" >}})
 
-### N20 Engine
-- [Stage 1 Tuning](./stage1/)
-- [Stage 2 Tuning](./stage2/)
-- [Stage 2.5 Tuning](./stage2-5/)
-- [Stage 3 Tuning](./stage3/)
-- [Stage 4 Tuning](./stage4/)
-- [Water Methanol Injection](./water-methanol/)
+### Hardware Modifications
+- [Intake Systems]({{< relref "./intake" >}})
+- [Downpipes]({{< relref "./downpipe" >}})
+- [Intercoolers]({{< relref "./engine-modifications/intercooler" >}})
 
-### B48 Engine
-- [Stage 1 Tuning](./stage1/)
-- [Stage 2 Tuning](./stage2/)
-- [Stage 2.5 Tuning](./stage2-5/)
-- [Stage 3 Tuning](./stage3/)
-- [Stage 4 Tuning](./stage4/)
-- [Water Methanol Injection](./water-methanol/)
-- [Intake Systems](./intake/) 
+### Advanced Modifications
+- [Turbo Upgrades]({{< relref "./engine-modifications/turbo-upgrades" >}})
+- [Engine Internals]({{< relref "./engine-modifications/engine-internals" >}})
+- [Fueling Upgrades]({{< relref "./engine-modifications/fueling" >}})
+
+## Tuning Stages
+
+1. Stage 1: ECU tune, intake, high-flow filter
+2. Stage 2: Downpipe, intercooler, charge pipe
+3. Stage 3: Turbo upgrade, fueling upgrades
+4. Stage 4: Built engine, custom tuning
+
+## Best Practices
+
+1. Research modifications thoroughly
+2. Use reputable parts and tuners
+3. Maintain proper documentation
+4. Monitor engine parameters
+5. Keep stock parts for warranty claims
+6. Follow proper break-in procedures 

@@ -1,115 +1,86 @@
 ---
 title: "B48 Cylinder Sleeves"
-linkTitle: "B48 Sleeves"
-weight: 43
-description: >
-  Guide to cylinder sleeve options for high-performance B48 builds.
+description: "Guide for cylinder sleeve installation on BMW B48 engines"
+lead: "Understanding cylinder sleeve options for high-performance builds"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 440
 ---
 
-{{% pageinfo %}}
-This guide covers the different cylinder sleeve options available for the B48 engine family, including B46, B48, B46TU, and B48TU variants.
-{{% /pageinfo %}}
+> **Important:** Cylinder sleeve installation is an advanced engine modification that requires professional machining and installation. This modification is typically only necessary for high-horsepower builds.
 
-## Factory Block Construction
+## Overview
 
-The B48 engine family uses an aluminum block with similar construction to the N20/N26:
+The B48's aluminum block can benefit from aftermarket cylinder sleeves for high-power applications. This guide covers sleeve options, installation, and considerations.
 
-![B48 Block Construction](/images/engine-mods/b48/factory-block.png)
+## Sleeve Types
 
-- Aluminum block base material
-- Arc-sprayed cylinder coating
-- Integrated coolant passages
-- Shares ~90-100% of engine parts with B58 & B38
+### 1. Darton MID Sleeves
+- Industry standard
+- Proven reliability
+- Full support
+- Optimal cooling
+- Most expensive option
 
-## Sleeve Options
+### 2. LA Sleeves
+- Good alternative
+- Cost-effective
+- Proven design
+- Limited availability
+- Requires skilled installation
 
-### 1. Parallel/Repair Sleeve
+### 3. Custom Sleeves
+- Application specific
+- Variable wall thickness
+- Custom materials
+- Higher cost
+- Limited availability
 
-The basic sleeve option for OEM-style rebuilds:
+## Installation Process
 
-![B48 Parallel Sleeve](/images/engine-mods/b48/parallel-sleeve.png)
+### Preparation
+1. Engine removal
+2. Block cleaning
+3. Measurement
+4. Surface preparation
+5. Alignment checks
 
-**Pros:**
-- Most economical option
-- Suitable for stock rebuilds
-- Simple installation process
+### Installation
+1. Boring for sleeves
+2. Sleeve fitting
+3. Sleeve installation
+4. Final boring
+5. Deck resurfacing
 
-**Cons:**
-- Limited to OEM power levels
-- Not recommended for performance builds
-- Risk of premature wear
+### Finishing
+1. Torque plate honing
+2. Surface finishing
+3. Measurement verification
+4. Cleaning
+5. Final inspection
 
-### 2. Flanged Sleeve
+## Considerations
 
-A more robust option for performance applications:
+### When Needed
+- Power over 600hp
+- Boost over 30 PSI
+- Race applications
+- Frequent track use
+- After cylinder damage
 
-![B48 Flanged Sleeve](/images/engine-mods/b48/flanged-sleeve.png)
+### Supporting Mods
+1. Forged pistons
+2. Head studs
+3. Performance head gasket
+4. Enhanced cooling
+5. Oil system upgrades
 
-**Pros:**
-- Better retention than parallel sleeves
-- Common in BMW performance builds
-- Proven track record in 6 and 8 cylinder BMWs
+## Best Practices
 
-**Cons:**
-- Must maintain specific wall thickness
-- Risk of coolant passage interference
-- Material quality critical for success
-
-## Technical Specifications
-
-### Critical Measurements
-
-{{% alert title="Warning" color="warning" %}}
-Flanged sleeve wall thickness must be:
-- NO LESS than 0.100 inches
-- NO MORE than 0.139 inches
-{{% /alert %}}
-
-Exceeding these specifications can:
-- Compromise cylinder wall strength
-- Risk coolant passage interference
-- Lead to mixing of coolant and oil
-
-## Manufacturer Recommendations
-
-For performance applications, we recommend:
-1. Custom Darton flanged sleeves
-2. LA Sleeves options
-
-Both manufacturers can create sleeves that:
-- Maintain proper wall thickness
-- Use appropriate materials
-- Avoid coolant passage interference
-- Provide maximum strength
-
-## Installation Considerations
-
-### Machine Shop Requirements
-- Precision boring equipment
-- Experience with BMW aluminum blocks
-- Proper measuring tools
-- Quality control procedures
-
-### Quality Control
-- Pressure testing
-- Wall thickness verification
-- Roundness checking
-- Surface finish inspection
-
-## Power Level Guidelines
-
-- **Stock/Stage 1:** Factory arc spray coating
-- **Stage 2:** High-quality parallel sleeve
-- **Performance Builds:** Custom flanged sleeve
-
-## Integration with Other Modifications
-
-Consider these related upgrades:
-- Head studs/bolts
-- Performance head gaskets
-- Cooling system improvements
-- Oil system upgrades
-
-{{% alert title="Note" color="info" %}}
-Always use reputable manufacturers and experienced installers for sleeve work. The B48 platform shares many characteristics with other BMW engines but has its own specific requirements.
-{{% /alert %}} 
+1. Use quality sleeves
+2. Professional installation
+3. Proper measurements
+4. Correct clearances
+5. Quality machine work 

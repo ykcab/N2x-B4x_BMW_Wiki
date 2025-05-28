@@ -1,84 +1,84 @@
 ---
-title: "N20 Technical Specifications"
-linkTitle: "Specifications"
-weight: 1
-description: >
-  Detailed technical specifications of the BMW N20 engine.
+title: "BMW N20 and N26 Engine Specifications"
+description: "BMW N20 and N26 Engine Specifications"
+lead: "Complete technical specifications for the N20 and N26 engines"
+date: 2023-04-10T16:03:09.030Z
+lastmod: 2023-04-10T16:03:09.030Z
+draft: false
+images: []
+weight: 110
 ---
 
-{{% pageinfo %}}
-This page contains detailed technical specifications for the BMW N20 engine, including dimensions, performance figures, and technical features.
-{{% /pageinfo %}}
+The BMW N20/N26 Engine has the following critical specifications:
 
-## Engine Specifications
+- Engine Block & Cylinder Head Metal Composition: Diecast Aluminium AlSi9Cu3
+- Crankshaft Material: Forged Material
+- Connecting Rod Material: Cast Material
+- Piston Material: Cast Material
+- Bore Spacing: 91 mm
+- Bore Size: 84 mm
+- Displacement: 1.997 L
+- Stroke: 90.091 mm
+- Compression Ratio: Either 10.0:1 or 11.0:1
+- Connecting Rod Centre to Centre: 144.35 mm
+- Crank Throw: 44.8 mm
+- Crankshaft Offset: +14 mm
+- Wrist Pin Offset: -0.3 mm
+- Cylinder Wall Plasma Arc Coating Thickness: 1 mm
+- Cylinder Wall Thickness Between Cylinders: 7 mm (3.5mm per cylinder)
+- Cylinder Wall Thickness on the Thrust & Non-Thrust Sides: 7 - 10 mm Note: the 10 mm is located at the main contact surface with the pistons thrust/non-thrust surfaces.
+- Intake Valve Diameter / Stem-diameter: 32/5 mm
+- Exhaust Valve Diameter / Stem-diameter: 28/6 mm
+- Maximum Valve-Lift, Intake/Exhaust Valve: 9.9/9.3 mm
+- VANOS Adjustment Range, Intake: 70 °CA
+- VANOS Adjustment Range, Exhaust: 55 °CA
+- Intake Camshaft Spread: 120 - 50 °CA
+- Exhaust Camshaft Spread: 115 - 60 °CA
+- Opening Period, Intake Camshaft (Duration): 258 °CA
+- Opening Period, Exhaust Camshaft (Duration): 252 °CA
+- DME Used: MEVD17.2.4, MEVD17.2.9, MEVD17.2.P (Oldest to Newest)
+- DME Used in Z4 E89 & X1 E84 N2x: MEVD17.2.4T, MEVD17.2.9T (Oldest to Newest)
 
-### Basic Information
-- **Production Period**: 2011-2017
-- **Engine Code**: N20B20
-- **Engine Type**: Inline-4, Turbocharged
-- **Displacement**: 1,997 cc (121.9 cu in)
-- **Bore × Stroke**: 84.0 mm × 90.1 mm (3.31 in × 3.55 in)
-- **Compression Ratio**: 10.0:1
-- **Engine Weight**: Approximately 139 kg (306 lb)
+## General Specifications
 
-### Performance Specifications
+- **Engine Code:** N20
+- **Engine Type:** Turbocharged Inline-4
+- **Displacement:** 1,997 cc (2.0L)
+- **Bore x Stroke:** 84.0 mm × 90.1 mm
+- **Compression Ratio:** 10.0:1
+- **Valvetrain:** DOHC with Valvetronic and Double-VANOS
+- **Fuel System:** Direct Injection
+- **Turbocharger:** Twin-scroll turbocharger
+- **Engine Block:** Open-deck aluminum
+- **Cylinder Head:** Aluminum
 
-The N20 engine was produced in several power variants:
+## Power Output
 
-#### N20B20O0 (184 hp)
-- **Power Output**: 184 PS (135 kW; 181 hp) at 5,000 rpm
-- **Torque**: 270 N⋅m (199 lb⋅ft) at 1,250-4,500 rpm
-- **Applications**: 
-  - BMW 320i
-  - BMW 520i
-  - BMW Z4 sDrive20i
+### N20B20A (184 hp)
+- **Power:** 184 hp (135 kW) @ 5,000-6,250 rpm
+- **Torque:** 270 N⋅m (199 lb⋅ft) @ 1,250-4,500 rpm
 
-#### N20B20U0 (245 hp)
-- **Power Output**: 245 PS (180 kW; 242 hp) at 5,000 rpm
-- **Torque**: 350 N⋅m (258 lb⋅ft) at 1,250-4,800 rpm
-- **Applications**:
-  - BMW 328i
-  - BMW 528i
-  - BMW Z4 sDrive28i
-  - BMW X3 xDrive28i
-
-![N20 Engine Overview](/images/n20/n20_1.png)
+### N20B20B (245 hp)
+- **Power:** 245 hp (180 kW) @ 5,000-6,500 rpm
+- **Torque:** 350 N⋅m (258 lb⋅ft) @ 1,250-4,800 rpm
 
 ## Technical Features
 
 ### Turbocharger
-- Twin-scroll turbocharger
-- Integrated exhaust manifold
-- Maximum boost pressure: 1.3 bar (18.9 psi)
-
-### Valvetrain
-- Double overhead camshaft (DOHC)
-- 16 valves (4 per cylinder)
-- Valvetronic III variable valve lift
-- Double-VANOS variable valve timing
-- Hydraulic valve lifters
+- Twin-scroll design
+- Electronically controlled wastegate
+- Air-to-air intercooler
 
 ### Fuel System
-- Direct fuel injection
-- Piezo injectors
-- Maximum injection pressure: 200 bar (2,900 psi)
+- High-pressure fuel pump
+- Multiple injection events per cycle
+- Fuel pressure up to 200 bar
 
-![N20 High Compression](/images/n20/n20_high_comp.png)
-
-### Engine Management
-- Bosch MEVD17.2.8 engine control unit
-- Drive-by-wire throttle control
-- Auto start-stop function
-
-### Cooling System
-- Electric water pump
-- Map-controlled thermostat
-- Integrated oil cooler
-
-### Lubrication
-- Map-controlled oil pump
-- 5W-30 or 5W-40 oil requirement
-- Oil capacity: 5.75 L (6.1 US qt)
+### Valvetrain
+- Valvetronic III system
+- Double-VANOS
+- Hydraulic valve lash adjusters
+- Roller rocker arms
 
 ## Engine Design
 

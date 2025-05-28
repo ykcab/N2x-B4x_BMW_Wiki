@@ -1,78 +1,25 @@
 ---
-title: "BMW N20 & B48 Engine Wiki"
-linkTitle: "Home"
+title: "BMW N2x & B4x Engine Wiki"
+description: "Comprehensive documentation for BMW N20, N26, B46 and B48 engines"
 ---
 
-{{% blocks/cover title="BMW N20 & B48 Engine Wiki" image_anchor="center" height="full" color="dark" %}}
-<div class="text-center">
-A comprehensive resource for BMW N20/N26 and B48 engine enthusiasts.
-</div>
+# BMW N2x & B4x Engine Wiki
 
-{{% blocks/link-down color="info" %}}
-{{% /blocks/cover %}}
+Welcome to the comprehensive documentation for BMW's modern 4-cylinder turbocharged engines. This wiki covers everything you need to know about the N20, N26, B46, and B48 engines.
 
-{{% blocks/section type="row" color="dark" %}}
+## Quick Links
 
-{{% blocks/feature icon="fa-wrench" title="N20 Engine" %}}
-<div class="text-center">
-Learn about the N20 engine, including specifications, common issues, and tuning guides.
+- [N20/N26 Documentation](/docs/n20) - Technical details, maintenance guides, and tuning information
+- [B46/B48 Documentation](/docs/b48) - Specifications, common issues, and performance upgrades
+- [Maintenance Guides](/docs/maintenance) - Step-by-step maintenance procedures
+- [Tuning Information](/docs/tuning) - Performance modifications and tuning options
 
-[Get started with N20](/docs/n20)
-</div>
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fa-cogs" title="B48 Engine" %}}
-<div class="text-center">
-Comprehensive information about the B48 engine, including its variants and improvements.
-
-[Learn about B48](/docs/b48)
-</div>
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fa-tools" title="Maintenance" %}}
-<div class="text-center">
-Step-by-step maintenance guides and best practices for both engines.
-
-[View maintenance guides](/docs/maintenance)
-</div>
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-{{% blocks/section type="row" color="primary" %}}
-
-{{% blocks/feature icon="fa-tachometer-alt" title="Performance Tuning" %}}
-<div class="text-center">
-Detailed tuning guides and recommendations for both engines.
-
-[Explore tuning options](/docs/tuning)
-</div>
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fa-book" title="Documentation" %}}
-<div class="text-center">
-Access comprehensive documentation covering all aspects of both engines.
-
-[Browse documentation](/docs)
-</div>
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fa-users" title="Community" %}}
-<div class="text-center">
-Join our community of BMW engine enthusiasts and experts.
-
-[Join the discussion](/community)
-</div>
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-{{% blocks/section %}}
-<div class="text-center">
 ## Featured Content
 
-* [N20 Timing Chain Guide](/docs/maintenance/n20-timing-chain)
-* [B48 Stage 1 Tuning](/docs/tuning/b48-stage1)
-* [Common Issues & Solutions](/docs/common-issues)
-</div>
-{{% /blocks/section %}} 
+- [N20 Timing Chain Guide](/docs/maintenance/n20-timing-chain)
+- [B48 Stage 1 Tuning](/docs/tuning/b48-stage1)
+- [Common Issues & Solutions](/docs/common-issues)
+
+## About This Wiki
+
+This documentation aims to be the most comprehensive resource for BMW's modern 4-cylinder turbocharged engines. Whether you're a DIY enthusiast, professional mechanic, or just interested in learning more about these engines, you'll find valuable information here. 

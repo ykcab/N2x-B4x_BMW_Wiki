@@ -1,36 +1,42 @@
 ---
-title: "Engine Modifications"
-linkTitle: "Engine Mods"
-weight: 40
-description: >
-  Advanced engine modification guides for high-performance N20/N26 and B48 builds.
+title: "Engine Modifications Guide"
+description: "Guide to engine modifications for BMW N20 and B48 engines"
+lead: "Understanding engine modifications for modern BMW engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 420
 ---
 
-{{% pageinfo %}}
-This section covers advanced engine modifications including cylinder sleeves, closed deck conversions, and other performance upgrades for high-horsepower builds.
-{{% /pageinfo %}}
+> **Important:** Engine modifications require careful planning and professional installation. Always research thoroughly and use reputable parts and installers.
 
 ## Overview
 
-Our engine modification guides cover critical upgrades for high-performance builds:
+Both the N20 and B48 engines can be modified for increased performance. This section covers various engine modifications, from basic bolt-ons to complete engine builds.
 
-- Cylinder sleeve options and comparisons
-- Closed deck conversions
-- Block strengthening techniques
-- Power handling capabilities
-- Professional installation requirements
+## Modification Categories
 
-## Important Notes
+### Basic Modifications
+- [Intake Systems]({{< relref "./intake" >}})
+- [Exhaust Systems]({{< relref "./exhaust" >}})
+- [Intercoolers]({{< relref "./intercooler" >}})
 
-{{% alert title="Warning" color="warning" %}}
-Engine modifications should only be performed by qualified professionals with proper tools and experience. These modifications are intended for high-performance builds and can result in catastrophic engine failure if not done correctly.
-{{% /alert %}}
+### Advanced Modifications
+- [Turbo Upgrades]({{< relref "./turbo" >}})
+- [Port Injection]({{< relref "./port-injection" >}})
+- [Cylinder Head Work]({{< relref "./head-work" >}})
 
-## Engine-Specific Guides
+### Engine Building
+- [N20 Sleeves]({{< relref "./n20-sleeves" >}})
+- [B48 Sleeves]({{< relref "./b48-sleeves" >}})
+- [Closed Deck Conversion]({{< relref "./closed-deck" >}})
 
-### N20/N26 Engine
-- [Cylinder Sleeves](./n20-sleeves/)
-- [Closed Deck Conversion](./n20-closed-deck/)
+## Best Practices
 
-### B48 Engine
-- [Cylinder Sleeves](./b48-sleeves/) 
+1. Plan modifications in advance
+2. Use quality parts from reputable manufacturers
+3. Follow proper installation procedures
+4. Maintain detailed records
+5. Consider future upgrades
+6. Budget for supporting modifications 

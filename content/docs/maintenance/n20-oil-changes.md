@@ -1,86 +1,61 @@
 ---
-title: "N20/N26 Oil Change Guide"
-linkTitle: "N20 Oil Changes"
-weight: 30
-description: >
-  Complete guide for changing oil in your BMW N20/N26 engine.
+title: "N20 Oil Change Guide"
+description: "Complete guide for changing oil on BMW N20 engines"
+lead: "Step-by-step instructions for N20 engine oil changes"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 310
 ---
 
-{{% pageinfo %}}
-Regular oil changes are crucial for maintaining your N20/N26 engine's performance and longevity. BMW recommends using synthetic 5W-30 or 5W-40 oil meeting BMW LL-01 specification.
-{{% /pageinfo %}}
+> **Important:** Regular oil changes are essential for engine longevity. Always use BMW-approved oil and follow the correct procedure.
 
-## Specifications
+## Oil Specifications
 
-- **Oil Type**: BMW LL-01 (5W-30 or 5W-40)
-- **Oil Capacity**: 5.75 liters (6.1 US qt)
-- **Oil Filter**: BMW Part #11428575211
-- **Drain Plug**: BMW Part #11137605018
-- **Drain Plug Washer**: BMW Part #11137549476
-- **Service Interval**: 10,000 km (5,000 km if using ethanol fuels)
+### Recommended Oil
+- BMW LL-01 or LL-04 approved oils
+- 5W-30 or 0W-30 viscosity
+- Synthetic oil only
+
+### Capacity
+- Total system: 6.5 liters
+- Oil filter: 0.5 liters
+- Drain and fill: 5.0 liters
 
 ## Required Tools
-
-- 17mm socket (drain plug)
 - Oil filter wrench
-- Funnel
-- Oil pan
 - Torque wrench
-- Gloves
-- Shop rags
+- Oil drain pan
+- Jack and jack stands
+- 17mm socket (drain plug)
 
-## Step-by-Step Procedure
+## Procedure
 
-1. **Warm Up Engine**
-   - Run engine for 2-3 minutes to warm oil
-   - Do not get oil too hot
-   - Park on level surface
+1. Preparation
+   - Warm up engine to operating temperature
+   - Lift vehicle and secure on jack stands
+   - Remove undertray
 
-2. **Drain Old Oil**
-   - Lift vehicle safely
-   - Remove underbody panels if necessary
-   - Place oil pan under drain plug
-   - Remove drain plug carefully
+2. Draining
+   - Remove drain plug
    - Allow oil to drain completely
-   - Replace drain plug washer
+   - Replace drain plug with new crush washer
+   - Torque to 25 Nm
 
-3. **Replace Oil Filter**
-   - Locate oil filter housing
+3. Filter Replacement
    - Remove old filter and O-ring
    - Clean filter housing
-   - Install new O-ring
-   - Install new filter
-   - Tighten housing to spec
+   - Install new O-ring and filter
+   - Torque filter cap to 25 Nm
 
-4. **Add New Oil**
-   - Install drain plug with new washer
-   - Torque to specification
-   - Add 5.5L of new oil initially
+4. Filling
+   - Add 5.5 liters of new oil
    - Start engine and check for leaks
    - Check oil level with dipstick
-   - Add remaining oil as needed
+   - Top off as needed
 
-5. **Final Checks**
-   - Clear service indicator
-   - Record service in maintenance log
-   - Dispose of old oil properly
-
-## Important Notes
-
-{{% alert title="Warning" color="warning" %}}
-- Always use new drain plug washer
-- Don't overfill oil
-- Check for leaks after service
-- Reset service indicator
-{{% /alert %}}
-
-## Maintenance Tips
-
-- Keep records of oil changes
-- Check oil level regularly
-- Use only BMW-approved oil
-- Change more frequently if:
-  - Using ethanol fuels
-  - Track/performance driving
-  - Frequent short trips
-  - Extreme climate conditions 
+5. Completion
+   - Reset oil service indicator
+   - Document service in maintenance records
+   - Schedule next change for 7,500 miles or 1 year 

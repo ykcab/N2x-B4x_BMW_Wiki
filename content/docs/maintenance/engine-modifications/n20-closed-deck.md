@@ -1,125 +1,77 @@
 ---
-title: "N20/N26 Closed Deck Conversion"
-linkTitle: "N20 Closed Deck"
-weight: 42
-description: >
-  Guide to closed deck conversion for the N20/N26 engine block.
+title: "N20 Closed Deck Conversion"
+description: "Guide for closed deck conversion on BMW N20 engines"
+lead: "Understanding closed deck conversion for high-performance builds"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 460
 ---
 
-{{% pageinfo %}}
-This guide covers the closed deck conversion process for N20/N26 engines, including different deck designs and their benefits for high-performance applications.
-{{% /pageinfo %}}
+> **Important:** Closed deck conversion is an advanced engine modification that requires professional machining and installation. This modification is typically only necessary for high-horsepower builds.
 
 ## Overview
 
-The N20/N26 engine comes from the factory with an open deck design. While this is adequate for stock power levels, high-performance builds benefit significantly from closing the deck to prevent cylinder movement and improve overall strength.
+The N20's open deck design can be a limiting factor for high-power builds. A closed deck conversion strengthens the cylinder walls by adding material between the cylinders and the coolant jackets.
 
-## Deck Designs
+## Benefits
 
-### 1. Open Deck (Factory)
-![Open Deck Design](/images/engine-mods/n20/open-deck.png)
-- Original factory design
-- Maximum coolant flow
-- Limited cylinder support
-- Not recommended for high boost applications
+1. Increased cylinder stability
+2. Better head gasket sealing
+3. Reduced cylinder distortion
+4. Higher boost capability
+5. Improved reliability at high power
 
-### 2. Semi-Closed Deck
-![Semi-Closed Deck Design](/images/engine-mods/n20/semi-closed.jpg)
-- Partial support bridges added
-- Maintains good coolant flow
-- Improved cylinder stability
-- Suitable for moderate power increases
+## Process
 
-### 3. Full Closed Deck
-![Full Closed Deck Design 1](/images/engine-mods/n20/closed-deck-1.png)
-![Full Closed Deck Design 2](/images/engine-mods/n20/closed-deck-2.jpg)
-- Maximum cylinder support
-- Optimal for high-boost applications
-- Reduced coolant flow (still adequate)
-- Required for serious performance builds
+### Preparation
+- Engine removal
+- Complete disassembly
+- Block cleaning
+- Surface preparation
+- Measurement and marking
 
-## Why Close the Deck?
-
-On setups running over 30 PSI of boost, the factory open deck design can allow:
-- Cylinder movement
-- Head gasket failures
-- Sleeve cracking
-- Reduced engine longevity
-- Inconsistent cylinder sealing
-
-## Power Level Recommendations
-
-- **Stock-300WHP:** Open deck (factory)
-- **300-400WHP:** Semi-closed deck recommended
-- **400WHP+:** Full closed deck required
-
-{{% alert title="Warning" color="warning" %}}
-For applications above 400WHP or boost levels over 30psi, a full closed deck conversion is strongly recommended to prevent engine failure.
-{{% /alert %}}
-
-## Conversion Process
-
-### Required Tools
-- CNC machining center
-- Precision measuring equipment
-- Custom deck plates
-- Specialized welding equipment
-
-### Process Steps
-1. Block preparation and cleaning
-2. CNC machining of support structures
-3. Material addition for deck closure
-4. Precision machining of deck surface
+### Conversion
+1. CNC machining of block
+2. Material addition
+3. Precision boring
+4. Surface finishing
 5. Quality control checks
-6. Final deck surface finishing
+
+### Reassembly
+- New main bearings
+- Updated head gasket
+- ARP head studs
+- Torque plate honing
+- Assembly with new parts
 
 ## Considerations
 
-### Advantages
-- Increased cylinder stability
-- Better head gasket sealing
-- Higher boost capability
-- Improved sleeve support
-- Longer engine life at high power
+### When Needed
+- Power goals over 600hp
+- Boost over 30 PSI
+- Race applications
+- Frequent track use
 
-### Disadvantages
-- Higher cost
-- Reduced coolant flow
-- More complex machining
-- Limited number of qualified shops
-- Cannot be reversed
+### Supporting Mods
+1. Forged internals
+2. Head studs
+3. Race head gasket
+4. Enhanced cooling
+5. Oil system upgrades
 
-## Integration with Other Modifications
+## Installation
 
-The closed deck conversion works best when combined with:
-- Darton MID wet sleeves
-- ARP head studs
-- Performance head gaskets
-- Upgraded cooling system
-- Forged internal components
+### Requirements
+- Professional machine shop
+- Specialized tooling
+- Precision measurements
+- Quality materials
+- Experienced builder
 
-## Professional Installation
-
-{{% alert title="Note" color="info" %}}
-Closed deck conversion should only be performed by experienced machine shops with specific BMW experience. This is not a DIY modification.
-{{% /alert %}}
-
-### Shop Requirements
-1. CNC machining capabilities
-2. Experience with aluminum blocks
-3. Proper measuring equipment
-4. Quality control procedures
-5. BMW-specific expertise
-
-## Maintenance Considerations
-
-After closed deck conversion:
-- Monitor coolant temperatures more closely
-- Use high-quality coolant
-- Regular compression testing
-- Periodic leak-down testing
-- Head gasket inspection at service intervals
-
-## Philosophy
-
-As stated in the original documentation: "My philosophy is do it once do it right, learn from my failures and avoid cutting corners where possible on this platform as it can become a nightmare very quickly." 
+### Timeline
+- 2-3 weeks typical
+- Additional time for parts
+- Break-in period required
+- Tuning afterward 

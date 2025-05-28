@@ -1,56 +1,55 @@
 ---
-title: "B48 Technical Specifications"
-linkTitle: "Specifications"
-weight: 10
-description: >
-  Detailed technical specifications of the BMW B48 engine.
+title: "B48 Engine Specifications"
+description: "Detailed specifications for the BMW B48 engine"
+lead: "Technical specifications and data for the BMW B48 engine"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 210
 ---
 
-{{% pageinfo %}}
-Complete technical specifications and data for the BMW B48 engine family.
-{{% /pageinfo %}}
+> **Technical Details:** This page contains detailed specifications and technical data for the BMW B48 engine family.
 
-## Basic Information
+## General Specifications
 
-- **Engine Code**: B48
-- **Engine Type**: Inline-4, Turbocharged
-- **Displacement**: 1,998 cc (2.0L)
-- **Bore × Stroke**: 82 mm × 94.6 mm
-- **Compression Ratio**: 10.2:1 to 11.0:1 (varies by application)
-- **Engine Block**: Aluminum alloy
-- **Cylinder Head**: Aluminum alloy, DOHC
-- **Valvetrain**: 16 valves, Valvetronic, Double-VANOS
+- **Engine Code:** B48
+- **Engine Type:** Turbocharged Inline-4
+- **Displacement:** 1,998 cc (2.0L)
+- **Bore x Stroke:** 82.0 mm × 94.6 mm
+- **Compression Ratio:** 10.2:1 to 11.0:1 (varies by application)
+- **Valvetrain:** DOHC with Valvetronic and Double-VANOS
+- **Fuel System:** Direct Injection
+- **Turbocharger:** Twin-scroll turbocharger
+- **Engine Block:** Closed-deck aluminum
+- **Cylinder Head:** Aluminum
 
-## Performance Specifications
+## Power Output
 
-### B48A20
-- **Power Output**: 184-258 hp (depending on variant)
-- **Torque**: 290-400 Nm (depending on variant)
-- **Redline**: 6,500 RPM
-- **Boost Pressure**: Up to 2.0 bar (varies by variant)
+### B48A20M0 (180 hp)
+- **Power:** 180 hp (134 kW) @ 5,000-6,500 rpm
+- **Torque:** 280 N⋅m (207 lb⋅ft) @ 1,350-4,600 rpm
 
-### B48B20
-- **Power Output**: 245-306 hp
-- **Torque**: 350-450 Nm
-- **Redline**: 6,500 RPM
-- **Boost Pressure**: Up to 2.3 bar
+### B48A20M1 (252 hp)
+- **Power:** 252 hp (188 kW) @ 5,200-6,500 rpm
+- **Torque:** 350 N⋅m (258 lb⋅ft) @ 1,450-4,800 rpm
+
+### B48A20M2 (306 hp)
+- **Power:** 306 hp (228 kW) @ 5,000-6,500 rpm
+- **Torque:** 450 N⋅m (332 lb⋅ft) @ 1,800-4,500 rpm
 
 ## Technical Features
 
 ### Turbocharger
-- Twin-scroll turbocharger
 - Electronically controlled wastegate
 - Air-to-air intercooler
 
 ### Fuel System
-- Direct injection
 - High-pressure fuel pump
 - Multiple injection events per cycle
 - Fuel pressure up to 350 bar
 
 ### Valvetrain
-- Valvetronic III system
-- Double-VANOS (intake and exhaust)
 - Hydraulic valve lash adjusters
 - Roller rocker arms
 

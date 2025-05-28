@@ -1,133 +1,70 @@
 ---
 title: "Tuning Stages Guide"
-linkTitle: "Tuning Stages"
-weight: 20
-description: >
-  Comprehensive guide to different tuning stages for N20 and B48 engines.
+description: "Understanding tuning stages for BMW N20 and B48 engines"
+lead: "A comprehensive guide to performance tuning stages"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 410
 ---
 
-{{% pageinfo %}}
-This guide covers all tuning stages from Stage 1 to Stage 4, including required modifications, expected power gains, and considerations for each stage.
-{{% /pageinfo %}}
+> **Important:** Each tuning stage builds upon the previous one. Always complete the necessary supporting modifications before advancing to the next stage.
 
 ## Overview
 
-BMW N20 and B48 engines can be tuned in progressive stages, each offering increased performance with corresponding hardware requirements:
-
-![Tuning Stages Overview](/images/tuning/stages-overview.png)
+Performance tuning is typically divided into stages, with each stage representing a different level of modification and power output. This guide explains each stage and its requirements.
 
 ## Stage 1
 
-### Description
-Basic ECU tune with no hardware modifications required.
-
 ### Modifications
-- ECU remap only
-- Optional intake
-- Premium fuel required (93 octane)
+- ECU tune
+- High-flow air filter
+- Optional intake system
 
-### Power Gains
-**N20:**
-- Stock: 240hp / 258lb-ft
-- Stage 1: 280-300hp / 300-320lb-ft
-- Gains: +40-60hp / +42-62lb-ft
-
-**B48:**
-- Stock: 255hp / 295lb-ft
-- Stage 1: 300-320hp / 350-370lb-ft
-- Gains: +45-65hp / +55-75lb-ft
+### Expected Gains
+- N20: +40-50hp, +60-70ft-lbs
+- B48: +50-60hp, +70-80ft-lbs
 
 ### Requirements
-- Stock hardware
-- 93 octane fuel
-- Good maintenance history
+- Regular maintenance up to date
 - No check engine lights
+- Premium fuel (93 octane)
 
 ## Stage 2
 
-### Description
-ECU tune with basic bolt-on modifications.
+### Modifications
+- Stage 1 plus:
+- Downpipe
+- Intercooler
+- Charge pipe
+- Spark plugs
 
-![Stage 2 Setup](/images/tuning/stage2-setup.png)
+### Expected Gains
+- N20: +70-80hp, +90-100ft-lbs
+- B48: +80-90hp, +100-110ft-lbs
 
-### Required Modifications
-- Downpipe (catted or catless)
-- Intercooler upgrade
-- Intake system
-- Charge pipe upgrade
-- Spark plugs (1 step colder)
-
-### Power Gains
-**N20:**
-- Stage 2: 320-340hp / 360-380lb-ft
-- Gains: +80-100hp / +102-122lb-ft
-
-**B48:**
-- Stage 2: 350-370hp / 400-420lb-ft
-- Gains: +95-115hp / +105-125lb-ft
-
-### Optional Upgrades
-- Methanol injection
-- Upgraded coil packs
-- Performance exhaust
-- Boost pipes
-
-## Stage 2.5
-
-### Description
-Enhanced Stage 2 with additional cooling and fueling.
-
-### Required Modifications
-All Stage 2 plus:
-- Port injection
-- Larger intercooler
-- Water methanol injection
-- Upgraded turbo inlets
-- Enhanced cooling system
-
-### Power Gains
-**N20:**
-- Stage 2.5: 360-380hp / 400-420lb-ft
-- Gains: +120-140hp / +142-162lb-ft
-
-**B48:**
-- Stage 2.5: 390-410hp / 440-460lb-ft
-- Gains: +135-155hp / +145-165lb-ft
-
-### Supporting Mods
-- Transmission tune
-- Upgraded clutch (manual)
-- Enhanced braking
-- Suspension upgrades
+### Requirements
+- All Stage 1 requirements
+- Upgraded charge pipe
+- One step colder plugs
 
 ## Stage 3
 
-### Description
-Advanced tuning with upgraded turbocharger.
-
-![Stage 3 Setup](/images/tuning/stage3-setup.png)
-
-### Required Modifications
-All Stage 2.5 plus:
-- Hybrid turbo upgrade
+### Modifications
+- Stage 2 plus:
+- Upgraded turbo
 - Port injection
+- Fuel pump upgrade
+- Custom tune
+
+### Expected Gains
+- N20: +120-140hp, +150-170ft-lbs
+- B48: +150-170hp, +180-200ft-lbs
+
+### Requirements
+- Built engine recommended
 - Upgraded fueling system
-- Strengthened internals recommended
-- Custom ECU calibration
-
-### Power Gains
-**N20:**
-- Stage 3: 400-450hp / 450-500lb-ft
-- Gains: +160-210hp / +192-242lb-ft
-
-**B48:**
-- Stage 3: 450-500hp / 500-550lb-ft
-- Gains: +195-245hp / +205-255lb-ft
-
-### Required Supporting Mods
-- Upgraded clutch/transmission
-- Enhanced cooling system
-- Strengthened motor mounts
 - Professional installation
 
 ## Stage 4

@@ -1,27 +1,32 @@
 ---
-title: "BMW B48 Engine"
-linkTitle: "B48"
-weight: 20
-description: >
-  Technical specifications and documentation for the BMW B48 engine.
-menu:
-  main:
-    weight: 20
+title: "B48 Engine Documentation"
+description: "Technical documentation for the BMW B48 engine"
+lead: "Complete guide to the BMW B48 engine"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 200
 ---
 
-{{% pageinfo %}}
-The BMW B48 is a turbocharged four-cylinder engine produced by BMW. It is part of BMW's modular engine family and serves as the successor to the N20 engine.
-{{% /pageinfo %}}
+> **Note:** This section contains comprehensive technical information about the BMW B48 engine, including specifications, common issues, and tuning potential.
 
 ## Overview
 
-The B48 engine is a modern turbocharged 2.0L inline-4 engine that features:
+The BMW B48 is a turbocharged four-cylinder engine that replaced the N20 and N26 engines. It features numerous improvements including:
 
-- Direct fuel injection
-- Twin-scroll turbocharger
-- Valvetronic variable valve lift
-- Double-VANOS variable valve timing
-- Modular design shared with B58 inline-6
+- Closed-deck design
+- Enhanced cooling system
+- Improved turbocharger
+- More robust internals
+- Higher power potential
+
+## Contents
+
+- [Specifications]({{< relref "./specs" >}})
+- [Common Issues]({{< relref "./common-issues" >}})
+- [Maintenance]({{< relref "../maintenance" >}})
+- [Tuning]({{< relref "../tuning" >}})
 
 ## Key Specifications
 

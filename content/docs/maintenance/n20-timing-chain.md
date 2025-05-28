@@ -1,77 +1,59 @@
 ---
-title: "N20/N26 Timing Chain Service"
-linkTitle: "N20 Timing Chain"
-weight: 32
-description: >
-  Critical information about the N20/N26 timing chain service and replacement.
+title: "N20 Timing Chain Replacement Guide"
+description: "Complete guide for replacing the timing chain on BMW N20 engines"
+lead: "Step-by-step instructions for N20 timing chain replacement"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 220
 ---
 
-{{% pageinfo %}}
-The timing chain is a critical maintenance item for N20/N26 engines, especially those built before January 2015. Failure can occur without warning and cause catastrophic engine damage.
-{{% /pageinfo %}}
+> **Important:** The timing chain is a critical component. If you're not confident in your mechanical abilities, please have this service performed by a qualified professional.
 
 ## Overview
 
-Vehicles built on or before January 2015 should have their entire timing chain system replaced before reaching 120,000 km or 80,000 miles. The timing chain system includes:
+The N20 timing chain is a known weak point that can fail prematurely. This guide covers the complete replacement procedure, including required tools, parts, and step-by-step instructions.
 
-- Timing chain
-- Chain guides
-- Sprockets
-- Tensioner
-- Oil pump chain
-- Oil pump guides
-- Oil pump sprocket
+## Required Tools
 
-## Warning Signs
+- Timing chain locking tools
+- Crankshaft locking tool
+- Camshaft alignment tool
+- Torque wrench
+- Various socket sizes
+- Special BMW timing tools
 
-Watch for these symptoms:
-- Rattling noise from front of engine
-- Cold start rattle that diminishes when warm
-- Check engine light with timing-related codes
-- Loss of engine timing
-- Rough running or misfires
+## Parts Needed
 
-## Preventative Maintenance
+1. Timing chain kit (includes):
+   - Timing chain
+   - Guide rails
+   - Tensioner
+   - Sprockets
+2. Timing chain cover gasket
+3. Various bolts and seals
 
-{{% alert title="Warning" color="warning" %}}
-Do not wait for symptoms to appear. The timing chain can fail without warning, causing catastrophic engine damage. If your vehicle was built before January 2015 and hasn't had the timing chain replaced, schedule service immediately.
-{{% /alert %}}
+## Procedure
 
-## Service Notes
+1. Preparation
+   - Disconnect battery
+   - Remove engine covers
+   - Drain coolant
+   - Remove front bumper
 
-- Professional service recommended
-- Requires special BMW timing tools
-- Full service takes 8-12 hours
-- Front of engine must be disassembled
-- Multiple components must be replaced
-- Proper timing verification critical
+2. Access
+   - Remove radiator
+   - Remove front timing cover
+   - Lock crankshaft at TDC
 
-## Post-Service
+3. Replacement
+   - Remove old chain and components
+   - Install new components
+   - Verify timing marks
+   - Install new tensioner
 
-After timing chain replacement:
-- Reset adaptations
-- Clear fault codes
-- Road test extensively
-- Listen for abnormal noises
-- Check for oil leaks
-- Monitor engine performance
-
-## Additional Considerations
-
-Consider replacing these components during timing chain service:
-- Front main seal
-- Oil pump seals
-- Valve cover gasket
-- Front engine mount
-- Accessory belts
-- Water pump (if high mileage)
-
-## Documentation
-
-Keep detailed records of:
-- Service date
-- Mileage at service
-- Parts replaced
-- Performing technician/shop
-- Any relevant fault codes
-- Cost of service 
+4. Reassembly
+   - Install timing cover with new gasket
+   - Refill coolant
+   - Start engine and verify operation 

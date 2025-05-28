@@ -1,15 +1,15 @@
 ---
 title: "Documentation"
-linkTitle: "Documentation"
-weight: 20
-menu:
-  main:
-    weight: 20
+description: "Documentation for BMW N20, N26, B46 and B48 engines"
+lead: "Learn everything about BMW's modern 4-cylinder engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 100
 ---
 
-{{% pageinfo %}}
-Technical documentation, maintenance guides, and tuning information for BMW N20 and B48 engines.
-{{% /pageinfo %}}
+## Technical documentation, maintenance guides, and tuning information for BMW N20 and B48 engines.
 
 ## Engine Documentation
 

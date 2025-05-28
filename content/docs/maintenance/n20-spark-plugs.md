@@ -1,89 +1,62 @@
 ---
-title: "N20/N26 Spark Plug Replacement"
-linkTitle: "N20 Spark Plugs"
-weight: 31
-description: >
-  Guide for replacing spark plugs in the BMW N20/N26 engine.
+title: "N20 Spark Plug Replacement"
+description: "Guide for replacing spark plugs on BMW N20 engines"
+lead: "Step-by-step instructions for N20 spark plug service"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 320
 ---
 
-{{% pageinfo %}}
-Proper spark plug maintenance is essential for optimal engine performance. The N20/N26 uses specific spark plugs that should be replaced every 50,000 km with OEM gap specifications.
-{{% /pageinfo %}}
+> **Important:** Proper spark plug maintenance is crucial for optimal engine performance. Always use OEM or equivalent spark plugs and follow the correct torque specifications.
 
 ## Specifications
 
-- **Spark Plug Type**: OEM or equivalent
-- **Gap**: 0.022 inch (performance) or OEM spec
-- **Service Interval**: 50,000 km (OEM gap), 25,000 km (0.022 inch gap)
-- **Quantity**: 4 plugs
-- **Torque**: 23-28 Nm (17-21 ft-lbs)
+### Spark Plugs
+- BMW Part Number: 12120037607
+- NGK: ILKAR7D8G
+- Gap: Pre-gapped (do not adjust)
+- Torque: 23 Nm (17 ft-lbs)
+
+### Service Interval
+- Standard interval: 35,000 miles
+- Performance/tuned: 20,000 miles
+- Track use: 15,000 miles
 
 ## Required Tools
-
-- Spark plug socket (14mm with rubber insert)
+- Spark plug socket (14mm)
 - Torque wrench
 - Extension bar
-- Ratchet
-- Ignition coil puller (recommended)
-- Dielectric grease
-- Gap tool (if using performance gap)
+- Swivel joint
+- Coil puller tool (recommended)
 
-## Step-by-Step Procedure
+## Procedure
 
-1. **Preparation**
+1. Preparation
    - Ensure engine is cool
    - Remove engine cover
-   - Clean area around coil packs
-   - Label coil pack connectors
+   - Label coil connectors
 
-2. **Remove Coil Packs**
-   - Disconnect battery negative terminal
-   - Unplug electrical connectors
-   - Remove coil pack bolts
-   - Extract coil packs carefully
-   - Inspect coil packs for damage
+2. Coil Removal
+   - Disconnect coil electrical connectors
+   - Remove coil hold-down bolts
+   - Extract coils carefully
 
-3. **Remove Old Spark Plugs**
-   - Use spark plug socket with extension
-   - Break loose and remove each plug
-   - Inspect removed plugs for signs of issues
-   - Check plug wells for oil contamination
+3. Spark Plug Removal
+   - Remove old spark plugs
+   - Inspect for abnormal wear
+   - Check cylinder condition
+   - Clean spark plug wells if needed
 
-4. **Install New Plugs**
-   - Check/set gap if using performance spec
-   - Insert plugs by hand initially
-   - Torque to specification (23-28 Nm)
-   - Do not over-tighten
-
-5. **Reinstall Coil Packs**
-   - Apply dielectric grease to boots
-   - Install coil packs
+4. Installation
+   - Insert new plugs by hand
+   - Torque to 23 Nm
+   - Reinstall coils
    - Reconnect electrical connectors
+
+5. Completion
    - Reinstall engine cover
-
-## Reading Old Spark Plugs
-
-Inspect removed plugs for:
-- Normal wear: Light tan/gray color
-- Rich mixture: Black, sooty deposits
-- Lean mixture: White, chalky deposits
-- Oil fouling: Wet, oily deposits
-- Overheating: White deposits, eroded electrode
-
-## Important Notes
-
-{{% alert title="Warning" color="warning" %}}
-- Replace coil packs at 60,000 km
-- Use only high-quality plugs
-- Don't reuse old spark plugs
-- Check for misfire codes
-- Consider upgrading coil packs for performance applications
-{{% /alert %}}
-
-## Maintenance Tips
-
-- Keep records of replacement
-- Check for misfire codes
-- Consider coil pack replacement
-- Use anti-seize sparingly
-- Check plug condition at oil changes 
+   - Start engine and check for misfires
+   - Clear any fault codes
+   - Document service 

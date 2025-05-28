@@ -1,14 +1,32 @@
 ---
 title: "Maintenance Guides"
-linkTitle: "Maintenance"
-weight: 30
-description: >
-  Comprehensive maintenance guides for both N20/N26 and B48 engines.
+description: "Maintenance procedures and schedules for BMW N20 and B48 engines"
+lead: "Complete maintenance information for BMW's modern 4-cylinder engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 300
 ---
 
-{{% pageinfo %}}
-This section contains detailed maintenance procedures and schedules for both the N20/N26 and B48 engines.
-{{% /pageinfo %}}
+> **Important:** Regular maintenance is crucial for the longevity and reliability of your BMW engine. Follow these guides for proper service intervals and procedures.
+
+## Maintenance Categories
+
+### Regular Service
+- [Oil Changes]({{< relref "./oil-changes" >}})
+- [Spark Plugs]({{< relref "./spark-plugs" >}})
+- [Air Filters]({{< relref "./air-filters" >}})
+
+### Critical Service
+- [N20 Timing Chain]({{< relref "./n20-timing-chain" >}})
+- [Cooling System]({{< relref "./cooling-system" >}})
+- [Valve Cover]({{< relref "./valve-cover" >}})
+
+### Preventive Maintenance
+- [Oil Analysis]({{< relref "./oil-analysis" >}})
+- [Boost Leaks]({{< relref "./boost-leaks" >}})
+- [Carbon Cleaning]({{< relref "./carbon-cleaning" >}})
 
 ## Overview
 

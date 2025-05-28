@@ -1,88 +1,52 @@
 ---
-title: "B48 Spark Plug Replacement"
-linkTitle: "Spark Plugs"
-weight: 20
-description: >
-  Guide for replacing spark plugs in the BMW B48 engine.
+title: "Spark Plug Maintenance"
+description: "General spark plug maintenance guide for BMW N20 and B48 engines"
+lead: "Understanding spark plug maintenance for modern BMW engines"
+date: 2025-05-28T08:48:57+00:00
+lastmod: 2025-05-28T08:48:57+00:00
+draft: false
+images: []
+weight: 330
 ---
 
-{{% pageinfo %}}
-Proper spark plug maintenance is essential for optimal engine performance. The B48 uses specific iridium spark plugs that should be replaced every 30,000 miles.
-{{% /pageinfo %}}
+> **Important:** Proper spark plug maintenance is essential for optimal engine performance and fuel efficiency.
 
-## Specifications
+## Overview
 
-- **Spark Plug Type**: NGK ILKAR7Q11 or equivalent
-- **Gap**: Pre-gapped (do not adjust)
-- **Torque**: 23-28 Nm (17-21 ft-lbs)
-- **Service Interval**: 30,000 miles
-- **Quantity**: 4 plugs
+Both the N20 and B48 engines use advanced spark plug technology to achieve their performance and efficiency goals. This guide covers general information about spark plug maintenance for both engines.
 
-## Required Tools
+## Engine-Specific Guides
+- [N20 Spark Plugs]({{< relref "./n20-spark-plugs" >}})
+- [B48 Spark Plugs]({{< relref "./b48-spark-plugs" >}})
 
-- Spark plug socket (14mm with rubber insert)
-- Torque wrench
-- Extension bar
-- Ratchet
-- Ignition coil puller (recommended)
-- Dielectric grease
+## General Guidelines
 
-## Step-by-Step Procedure
+### Service Intervals
+- Stock tune: 35,000-50,000 miles
+- Performance tune: 20,000-25,000 miles
+- Track use: 15,000 miles or less
 
-1. **Preparation**
-   - Ensure engine is cool
-   - Remove engine cover
-   - Clean area around coil packs
-   - Label coil pack connectors
+### Signs of Worn Plugs
+1. Poor fuel economy
+2. Rough idle
+3. Misfires
+4. Hard starting
+5. Reduced power
 
-2. **Remove Coil Packs**
-   - Disconnect battery negative terminal
-   - Unplug electrical connectors
-   - Remove coil pack bolts
-   - Extract coil packs carefully
+### Reading Spark Plugs
 
-3. **Remove Old Spark Plugs**
-   - Use spark plug socket with extension
-   - Break loose and remove each plug
-   - Inspect removed plugs for signs of issues
-   - Check plug wells for oil contamination
+Different spark plug conditions can indicate various engine issues:
 
-4. **Install New Plugs**
-   - Check gap (pre-gapped, verify only)
-   - Insert plugs by hand initially
-   - Torque to specification (23-28 Nm)
-   - Do not over-tighten
+- **Normal:** Light tan/gray color
+- **Rich mixture:** Black, sooty deposits
+- **Lean mixture:** White, chalky deposits
+- **Oil fouling:** Wet, oily deposits
+- **Overheating:** White deposits, eroded electrode
 
-5. **Reinstall Coil Packs**
-   - Apply dielectric grease to boots
-   - Install coil packs
-   - Reconnect electrical connectors
-   - Reinstall engine cover
+## Best Practices
 
-## Reading Old Spark Plugs
-
-Inspect removed plugs for:
-- Normal wear: Light tan/gray color
-- Rich mixture: Black, sooty deposits
-- Lean mixture: White, chalky deposits
-- Oil fouling: Wet, oily deposits
-- Overheating: White deposits, eroded electrode
-
-## Common Issues
-
-{{% alert title="Warning" color="warning" %}}
-- Avoid dropping debris into plug holes
-- Don't force cross-threaded plugs
-- Use torque wrench to prevent damage
-- Replace any damaged coil packs
-{{% /alert %}}
-
-## Maintenance Tips
-
-- Keep records of replacement
-- Check for misfire codes
-- Inspect coil packs condition
-- Consider coil pack replacement if:
-  - Over 60,000 miles
-  - Signs of cracking
-  - Misfire history 
+1. Always use OEM or equivalent quality plugs
+2. Follow proper torque specifications
+3. Replace all plugs at the same time
+4. Inspect coils when replacing plugs
+5. Document service with date and mileage 
