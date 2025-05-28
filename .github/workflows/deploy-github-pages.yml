@@ -7,6 +7,12 @@ on:
       - main
   pull_request:
 
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 env:
   REPO_NAME: ${{ github.event.repository.name }}
   REPO_OWNER: ${{ github.repository_owner }}
@@ -14,6 +20,10 @@ env:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    # Add environment for github pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -31,8 +41,14 @@ jobs:
       - name: Build
         run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }}
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} 
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 
