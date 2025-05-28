@@ -35,11 +35,17 @@ jobs:
           cache: 'npm'
           cache-dependency-path: '**/package-lock.json'
 
-      - name: Install dependencies
-        run: npm ci
+      - name: Install theme dependencies
+        run: |
+          cd themes/docsy
+          npm install
+          cd ../..
+          npm ci
 
       - name: Setup Hugo Modules
-        run: hugo mod get -u
+        run: |
+          hugo mod init github.com/${REPO_OWNER}/${REPO_NAME}
+          hugo mod get -u
 
       - name: Build
         run: hugo --baseURL https://${REPO_OWNER}.github.io/${REPO_NAME} --minify

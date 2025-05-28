@@ -1,19 +1,20 @@
 {
-  "comments": {
-    "dependencies": {},
-    "devDependencies": {
-      "@fortawesome/fontawesome-free": "project",
-      "autoprefixer": "project",
-      "bootstrap": "project",
-      "postcss": "project",
-      "postcss-cli": "project"
-    }
+  "name": "bmw-n2x-b4x-wiki",
+  "version": "1.0.0",
+  "description": "BMW N2x & B4x Engine Wiki",
+  "main": "none.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "bootstrap": "^5.3.2"
   },
-  "devDependencies": {
-    "@fortawesome/fontawesome-free": "^6.7.2",
-    "autoprefixer": "^10.4.21",
-    "bootstrap": "^4.6.2",
-    "postcss": "^8.5.3",
-    "postcss-cli": "^11.0.1"
-  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykcab/N2x-B4x_BMW_Wiki.git"
+  },
+  "author": "",
+  "license": "MIT"
 }
