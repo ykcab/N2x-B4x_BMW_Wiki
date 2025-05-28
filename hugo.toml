@@ -1,6 +1,6 @@
-baseURL = "https://ykcab.github.io/BMW-N2x-B4x-Wiki/"
-title = "BMW N20 & B48 Engine Wiki"
-description = "Comprehensive documentation for BMW N20 and B48 engines"
+baseURL = "https://ykcab.github.io/N2x-B4x_BMW_Wiki/"
+title = "BMW N2x & B4x Engine Wiki"
+description = "Comprehensive documentation for BMW N20, N26, B46 and B48 engines"
 languageCode = "en-us"
 
 # Theme settings
@@ -57,10 +57,10 @@ weight = 1
 # Everything below this are Site Params
 [params]
 copyright = "The BMW Engine Wiki Contributors"
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "https://github.com/ykcab/N2x-B4x_BMW_Wiki"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/yourusername/BMW-N2x-B4x-Wiki"
+github_repo = "https://github.com/ykcab/N2x-B4x_BMW_Wiki"
 github_branch = "main"
 
 # Enable Algolia DocSearch
@@ -89,8 +89,8 @@ footer_about_enable = true # Set to false to disable the About block within the 
 [params.ui.feedback]
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/yourusername/BMW-N2x-B4x-Wiki/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/yourusername/BMW-N2x-B4x-Wiki/issues/new">tell us how we can improve</a>.'
+yes = 'Glad to hear it! Please <a href="https://github.com/ykcab/N2x-B4x_BMW_Wiki/issues/new"> tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/ykcab/N2x-B4x_BMW_Wiki/issues/new"> tell us how we can improve</a>.'
 
 # Adds a reading time to the top of each doc.
 [params.ui.readingtime]
@@ -104,7 +104,7 @@ enable = true
 [params.links]
 [[params.links.developer]]
 name = "GitHub"
-url = "https://github.com/yourusername/BMW-N2x-B4x-Wiki"
+url = "https://github.com/ykcab/N2x-B4x_BMW_Wiki"
 icon = "fab fa-github"
 desc = "Development takes place here!"
 
