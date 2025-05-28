@@ -49,10 +49,11 @@ anchor = "smart"
 # Language configuration
 [languages]
 [languages.en]
-title = "BMW N20 & B48 Engine Wiki"
-description = "Comprehensive documentation for BMW N20 and B48 engines"
+title = "BMW N2x & B4x Engine Wiki"
 languageName = "English"
 weight = 1
+[languages.en.params]
+description = "Comprehensive documentation for BMW N20, N26, B46 and B48 engines"
 
 # Everything below this are Site Params
 [params]
