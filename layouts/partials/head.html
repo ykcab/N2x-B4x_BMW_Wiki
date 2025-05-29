@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,7 +13,7 @@
 
     <title>
         {{ block "title" . }}
-        {{ .Title}}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}
+        {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}
         {{ end }}
     </title>
 
@@ -23,5 +25,13 @@
 
     {{ range .Site.Params.custom_css }}
       <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
+    {{ end }}
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+    <!-- Favicon -->
+    {{ with .Site.Params.favicon }}
+    <link rel="shortcut icon" href="{{ . | relURL }}">
     {{ end }}
 </head> 
