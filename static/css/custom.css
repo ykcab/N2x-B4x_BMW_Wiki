@@ -19,6 +19,14 @@ body {
     background-color: var(--bg-dark);
     color: var(--text-primary);
     line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Landing page specific */
+.landing-page {
+    background-color: var(--bg-dark);
+    min-height: 100vh;
 }
 
 /* Hero section */
@@ -32,10 +40,23 @@ body {
     overflow: hidden;
 }
 
+.hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 100%);
+    pointer-events: none;
+}
+
 .hero-content {
     max-width: 1200px;
     margin: 0 auto;
     text-align: left;
+    position: relative;
+    z-index: 2;
 }
 
 .hero-content h1 {
@@ -43,10 +64,12 @@ body {
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 1.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .highlight {
     color: var(--accent-blue);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .hero-description {
@@ -54,6 +77,7 @@ body {
     color: var(--text-secondary);
     margin-bottom: 2.5rem;
     max-width: 600px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
 }
 
 .hero-buttons {
@@ -94,6 +118,7 @@ body {
 .features-section {
     padding: 6rem 2rem;
     background-color: var(--bg-darker);
+    width: 100%;
 }
 
 .feature-grid {
@@ -109,6 +134,8 @@ body {
     padding: 2rem;
     border-radius: 8px;
     transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
 }
 
 .feature-item:hover {
@@ -120,13 +147,12 @@ body {
     font-size: 1.1rem;
     color: var(--accent-blue);
     font-weight: 600;
-    display: block;
     margin-bottom: 1rem;
 }
 
 .feature-item h3 {
     font-size: 1.5rem;
-    margin-bottom: 1rem;
+    margin: 0 0 1rem 0;
     color: var(--text-primary);
 }
 
