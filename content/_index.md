@@ -1,9 +1,18 @@
 ---
-title: "BMW N2x & B4x Engine Wiki"
-description: "Comprehensive documentation for BMW N20, N26, B46 and B48 engines"
+title: "BMW N20, N26, B46 & B48 Engine Wiki"
+description: "Your comprehensive guide to BMW's modern 4-cylinder turbocharged engines"
 ---
 
-Welcome to the comprehensive documentation for BMW's modern 4-cylinder turbocharged engines. This wiki covers everything you need to know about the N20, N26, B46, and B48 engines.
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>Your complete guide to <span class="highlight">BMW's modern</span> 4-cylinder engines</h1>
+    <p class="hero-description">Comprehensive documentation covering everything from maintenance to performance tuning</p>
+    <div class="hero-buttons">
+      <a href="./docs/getting-started/_index.md" class="btn btn-primary">Get Started</a>
+      <a href="./docs/n20" class="btn btn-secondary">N20/N26 Guide</a>
+    </div>
+  </div>
+</div>
 
 ## Quick Links
 

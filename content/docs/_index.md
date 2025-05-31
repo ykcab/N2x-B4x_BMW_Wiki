@@ -1,13 +1,32 @@
 ---
 title: "Documentation"
-description: "Documentation for BMW N20, N26, B46 and B48 engines"
-lead: "Learn everything about BMW's modern 4-cylinder engines"
-date: 2025-05-28T08:48:57+00:00
-lastmod: 2025-05-28T08:48:57+00:00
-draft: false
-images: []
-weight: 100
+description: "Comprehensive documentation for BMW N20, N26, B46, and B48 engines"
+weight: 1
 ---
+
+# Documentation
+
+Welcome to the comprehensive documentation for BMW's modern 4-cylinder turbocharged engines. This wiki covers everything from basic maintenance to advanced performance tuning.
+
+## Main Sections
+
+### [Getting Started](/docs/getting-started)
+Introduction to the engines and documentation structure.
+
+### [Engine Specifications](/docs/specifications)
+Detailed technical specifications and comparisons between engine variants.
+
+### [Maintenance Guides](/docs/maintenance)
+Step-by-step maintenance procedures and preventive care guidelines.
+
+### [Performance Tuning](/docs/tuning)
+Comprehensive tuning guides from basic modifications to advanced upgrades.
+
+### [Troubleshooting](/docs/troubleshooting)
+Common issues, diagnostic procedures, and repair solutions.
+
+### [Parts Reference](/docs/parts)
+OEM and aftermarket parts catalog with compatibility information.
 
 ## Technical documentation, maintenance guides, and tuning information for BMW N20 and B48 engines.
 

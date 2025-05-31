@@ -1,49 +1,55 @@
 ---
-title: "Tuning Guide"
-description: "Performance tuning information for BMW N20 and B48 engines"
-lead: "Understanding performance modifications for modern BMW engines"
-date: 2025-05-28T08:48:57+00:00
-lastmod: 2025-05-28T08:48:57+00:00
-draft: false
-images: []
-weight: 400
+title: "Performance Tuning"
+description: "Tuning guides and performance modifications for BMW N20, N26, B46, and B48 engines"
+weight: 3
 ---
 
-> **Important:** Performance tuning can affect engine reliability and warranty coverage. Always research modifications thoroughly and use reputable tuners.
+# Performance Tuning
 
-## Overview
-
-Both the N20 and B48 engines respond well to performance modifications. This section covers various tuning options, from simple bolt-ons to advanced engine builds.
-
-## Tuning Categories
-
-### Software Tuning
-- [ECU Tuning]({{< relref "./ecu-tuning" >}})
-- [Transmission Tuning]({{< relref "./transmission-tuning" >}})
-- [JB4 Piggyback]({{< relref "./jb4" >}})
-
-### Hardware Modifications
-- [Intake Systems]({{< relref "./intake" >}})
-- [Downpipes]({{< relref "./downpipe" >}})
-- [Intercoolers]({{< relref "./engine-modifications/intercooler" >}})
-
-### Advanced Modifications
-- [Turbo Upgrades]({{< relref "./engine-modifications/turbo-upgrades" >}})
-- [Engine Internals]({{< relref "./engine-modifications/engine-internals" >}})
-- [Fueling Upgrades]({{< relref "./engine-modifications/fueling" >}})
+This section covers performance modifications and tuning options for BMW's modern 4-cylinder turbocharged engines. From basic bolt-ons to advanced modifications, you'll find comprehensive guides for enhancing your engine's performance.
 
 ## Tuning Stages
 
-1. Stage 1: ECU tune, intake, high-flow filter
-2. Stage 2: Downpipe, intercooler, charge pipe
-3. Stage 3: Turbo upgrade, fueling upgrades
-4. Stage 4: Built engine, custom tuning
+### Stage 1
+Basic modifications focusing on software optimization and minor hardware upgrades:
+- ECU Tuning
+- High-flow air intake
+- Performance exhaust system
+- Upgraded intercooler
 
-## Best Practices
+### Stage 2
+Moderate modifications building upon Stage 1:
+- Larger turbocharger
+- Upgraded fuel system
+- Enhanced cooling system
+- Strengthened clutch/transmission
 
-1. Research modifications thoroughly
-2. Use reputable parts and tuners
-3. Maintain proper documentation
-4. Monitor engine parameters
-5. Keep stock parts for warranty claims
-6. Follow proper break-in procedures 
+### Stage 3
+Advanced modifications for maximum performance:
+- Built engine internals
+- Custom turbo setup
+- Fully upgraded fueling
+- Race-spec cooling system
+
+## Engine-Specific Guides
+
+- [N20/N26 Tuning Guide](/docs/tuning/n20-tuning)
+- [B46 Tuning Guide](/docs/tuning/b46-tuning)
+- [B48 Tuning Guide](/docs/tuning/b48-tuning)
+
+## Popular Modifications
+
+- [ECU Tuning Options](/docs/tuning/ecu-tuning)
+- [Intake Systems](/docs/tuning/intake-systems)
+- [Exhaust Systems](/docs/tuning/exhaust-systems)
+- [Intercooler Upgrades](/docs/tuning/intercooler-upgrades)
+- [Turbocharger Upgrades](/docs/tuning/turbo-upgrades)
+
+## Important Considerations
+
+Before starting any performance modifications, consider:
+1. Warranty implications
+2. Local emissions regulations
+3. Fuel quality requirements
+4. Supporting modifications needed
+5. Professional installation requirements 
